@@ -362,7 +362,7 @@ hr {
   background-color: #ebecf0;
   border: 0;
   height: 1px;
-  margin: 1.66667em 0;
+  margin: 0.66667em 0;
 }
 
 hr:first-child {
@@ -1468,6 +1468,9 @@ textarea:focus {
     line-height: 1.5;
     margin-left: auto;
     margin-top: 4px;
+  }
+  .contact-mobile a {
+    padding-left: 20px;
   }
 }
 
